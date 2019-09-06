@@ -1,7 +1,7 @@
 # common-elemements-in-2-linked-lists
 here i have developed a function that takes 2 linked lists as constant arguments, and returns a new linked list that contains every number the two lists have in common.
 
-First, check whether each list has at most only one copy of any number (no duplicate values). If any of the input lists contain a duplicate value, print an error message and return. For an example, the list 3, 5, 6, 7, 3, which has 2 copies of 3, is not allowed.  \n
+First, check whether each list has at most only one copy of any number (no duplicate values). If any of the input lists contain a duplicate value, print an error message and return. For an example, the list 3, 5, 6, 7, 3, which has 2 copies of 3, is not allowed.  
 
 Example Output: 
 
